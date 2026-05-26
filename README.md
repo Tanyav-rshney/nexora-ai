@@ -17,7 +17,7 @@ https://tanyav-rshney.github.io/nexora-ai/
 Nexora AI is a futuristic AI tools discovery platform built using **React.js** and **Vite**.  
 It helps users explore trending AI tools across multiple categories like productivity, coding, image generation, design, automation, voice AI, and more.
 
-The project features a modern glassmorphism UI, dark/light theme, category filtering, search functionality, smooth interactions, and responsive layouts.
+The project features a modern glassmorphism UI, dark/light theme, category filtering, search functionality, smooth interactions, and interactive user experience.
 
 ---
 
@@ -56,6 +56,12 @@ The project features a modern glassmorphism UI, dark/light theme, category filte
 ## 🎨 Dark Mode
 
 ![Dark Mode](./screenshots/dark-mode.png)
+
+---
+
+## ☀️ Light Mode
+
+![Light Mode](./screenshots/light-mode.png)
 
 ---
 
@@ -120,3 +126,4 @@ npm run dev
 ## 💖 Built with passion by Tanya
 
 </div>
+
